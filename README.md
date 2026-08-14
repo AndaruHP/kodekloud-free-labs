@@ -1,7 +1,5 @@
 # KodeKloud Free Labs List
 
----
-
 List of KodeKloud free labs from Youtube. 
 
 * [Let's Build a Zero-Downtime Blue/Green Deployment on AWS](https://learn.kodekloud.com/learn/courses/youtube-labs-let-s-build-a-zero-downtime-blue-green-deployment-on-aws)
