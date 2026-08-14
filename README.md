@@ -4,8 +4,8 @@ List of KodeKloud free labs from Youtube.
 
 * [Let's Build a Zero-Downtime Blue/Green Deployment on AWS](https://learn.kodekloud.com/learn/courses/youtube-labs-let-s-build-a-zero-downtime-blue-green-deployment-on-aws)
 * [Design a Real-Time Gaming Leaderboard](https://learn.kodekloud.com/learn/courses/youtube-labs-design-a-real-time-gaming-leaderboard)
-* [Zero-Trust Internal API From Scratch](https://learn.kodekloud.com/learn/courses/youtube-labs-build-a-zero-trust-internal-api-from-scratch)
-* [Video Streaming Platform on AWS](https://learn.kodekloud.com/learn/courses/youtube-labs-let-s-build-your-own-video-streaming-platform-on-aws)
+* [Build a Zero-Trust Internal API From Scratch](https://learn.kodekloud.com/learn/courses/youtube-labs-build-a-zero-trust-internal-api-from-scratch)
+* [Build Your Own Video Streaming Platform on AWS](https://learn.kodekloud.com/learn/courses/youtube-labs-let-s-build-your-own-video-streaming-platform-on-aws)
 * [n8n](https://learn.kodekloud.com/learn/courses/youtube-labs-n8n)
 * [MCP](https://learn.kodekloud.com/learn/courses/youtube-labs-mcp)
 * [Design Bitly-like URL Shortener](https://learn.kodekloud.com/learn/courses/youtube-labs-design-bitly-like-url-shortener)
