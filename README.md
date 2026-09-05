@@ -39,6 +39,12 @@ List of KodeKloud free labs from YouTube.
   - https://youtu.be/vT-DpLvf29Q
 - [System Design For Beginners](https://learn.kodekloud.com/learn/courses/youtube-labs-system-design-for-beginners)
   - https://youtu.be/SE2KF-vxvS0
+- [System Design for Interview Prep](https://learn.kodekloud.com/learn/courses/youtube-labs-system-design-for-interview-prep)
+  - https://www.youtube.com/watch?v=oz5c88cO5P8
+- [Build a Smart Factory Defect Tracker on AWS](https://learn.kodekloud.com/learn/courses/youtube-labs-let-s-build-a-smart-factory-defect-tracker-on-aws)
+  - https://www.youtube.com/watch?v=6uxAgyRVBBc
+- [Shift-Left DevSecOps Pipeline on AWS](https://learn.kodekloud.com/learn/courses/youtube-labs-let-s-build-a-shift-left-devsecops-pipeline-on-aws)
+  - https://www.youtube.com/watch?v=340IofBEaW8
 
 ---
 
